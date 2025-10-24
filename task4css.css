@@ -1,0 +1,106 @@
+body {
+  background-image: url(background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.outwhite-box {
+    width: 1600px; /* Sets the width of the box */
+    height: 1000px; /* Sets the height of the box */
+    background-color: #ffffff; /* Sets the background color */
+    padding: 20px; /* Adds space between content and border */
+    margin: 100px; /* Adds space outside the border */
+
+}
+
+.head-box {
+    width: 1520px;
+    height: 160px; 
+    background-color: #37b366;
+    padding: 10px; 
+    margin: 20px; 
+}
+  
+
+.body-box {
+    width: 1540px;
+    height: 800px; 
+    padding: 0px; 
+    margin: 20px; 
+}
+
+.left-box {
+    width: 300px;
+    height: 800px; 
+    padding: 0px; 
+    margin: 0px; 
+    float: left;
+}
+
+.right-box {
+    width: 1240px;
+    height: 800px; 
+    padding: 0px; 
+    margin: 0px; 
+    float: right;
+}
+
+.friend-box {
+    width: 240px;
+    height: 200px; 
+    background-color: #20d25c;
+    border: 10px solid #1d9c4e;
+    padding: 20px; 
+    margin: 0px; 
+}
+
+.up-box {
+    width: 1220px;
+    height: 340px; 
+    background-color: #92c8aa;
+    border: 5px solid #79a28c;
+    padding: 0px; 
+    margin: 10px; 
+}
+
+.down-box {
+    width: 1220px;
+    height: 340px; 
+    background-color: #92c8aa;
+    border: 5px solid #7ba18d;
+    padding: 0px; 
+    margin: 10px; 
+}
+
+.heading-box {
+    width: 1200px;
+    height: 60px; 
+    padding: 10px; 
+    margin: 0px; 
+}
+
+.block-box {
+    width: 1220px;
+    height: 260px; 
+    padding: 1px; 
+    margin: 0px; 
+}
+
+.text-box {
+    width: 938px;
+    height: 238px; 
+    padding: 10px; 
+    margin: 0px;
+    float: left;
+}
+.image-box {
+    width: 238px;
+    height: 238px; 
+    padding: 10px; 
+    margin: 0px;
+    float: right;
+}
+
+
+
